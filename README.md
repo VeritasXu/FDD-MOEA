@@ -79,4 +79,4 @@ If this code helps you in your research, please cite the following publication:
 }
 ```
 
-And the single-objective version can be found at [FDD-EA](https://github.com/VeritasXu/FDD-EA.git)
+And the single-objective version can be found at [FDD-EA](https://github.com/VeritasXu/FDD-EA.git).
