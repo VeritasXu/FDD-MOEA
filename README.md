@@ -61,3 +61,22 @@ pi install PyDOE
     ray.init(include_dashboard=False)
 ```
 instead of ray.init() in FDD-EA.py.
+
+
+### Citation
+If this code helps you in your research, please cite the following publication:
+
+```tex
+@article{xu2021federated,
+  title={A federated data-driven evolutionary algorithm for expensive multi-/many-objective optimization},
+  author={Xu, Jinjin and Jin, Yaochu and Du, Wenli},
+  journal={Complex \& Intelligent Systems},
+  volume={7},
+  number={6},
+  pages={3093--3109},
+  year={2021},
+  publisher={Springer}
+}
+```
+
+And the single-objective version can be found at [FDD-EA](https://github.com/VeritasXu/FDD-EA.git)
